@@ -37,9 +37,13 @@ Another coding standard I wrote with was to place '{' directly underneath previo
 
 ![Burndown](https://i.imgur.com/owoBcqZ.png)
 
+As my burndown chart shows, The challenges that I had to solve took longer than I anticipated.
+
 ##### User Stories Tracking Chart (Which Stories Have Been Completed)
 
 ![Chart](https://i.imgur.com/W7lagJw.png)
+
+As shown on this chart, I was able to complete 5 out of 6 of the user stories that I created. The one that I was unable to complete was being able to track how many lives the player has. This means that currently the game does not end when the player touches the NPC.
 
 ##### Flowchart
 
