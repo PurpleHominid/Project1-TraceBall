@@ -21,7 +21,7 @@ I will be developing this game using Javascript as instructed in the brief. The 
 
 Also as instructed in the brief, I will be writing my code in Notepad. Notepad is a simple text editor that offers no helpful features or a 
 
-##### Programming Challanges 
+##### Programming Challanges
 During this project I will have to solve the following problems in order to complete the game
   -
 ### V. Project Management
