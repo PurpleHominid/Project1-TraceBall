@@ -24,6 +24,17 @@ Also as instructed in the brief, I will be writing my code in Notepad. Notepad i
 ##### Programming Challenges
 During this project, I will need to find a solution to the following problems/challenges.
 
+  - How to make the players square follow the mouse presicely 
+
 ### V. Project Management
 
 ##### Burndown Chart
+
+![Burndown](https://i.imgur.com/owoBcqZ.png)
+
+##### User Stories Tracking Chart (Which Stories Have Been Completed)
+
+![Chart](https://i.imgur.com/W7lagJw.png)
+
+##### Flowchart
+
