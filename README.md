@@ -1,2 +1,29 @@
 # Project1-TrackerBall
-Full code for project 1
+
+### I. Description
+In this game, the player will control a square by moving their mouse cursor within the game window. The player will be chased by an NPC square that will attempt to touch the players square. If the two collide, the player will lose a life. After 3 lives are lost, the game is over.
+
+### II. User Stories
+1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices.
+2. As a player, I would want my character to follow my mouse cursor so that I can control it.
+3. As a player, I woud want the NPC to chase my character so that the game has challenge
+4. As a player, I would like to be able to see both characters so that I have a fair chance at the game
+5. As a player, I would want to know when I have lost all 3 of my lives so that I know when the game is over
+6. As a player, I would like to know when I have come into contact with the NPC so that I know when I am losing lives
+
+### III. Genre
+This project will be a 2D, top down, casual arcade game
+
+### IV. Technical Details
+
+##### Programming Language/Enviroment
+I will be developing this game using Javascript as instructed in the brief. The game will be able to run on any web browser but will require a mouse to work correctly (Not touch screen compatable)
+
+Also as instructed in the brief, I will be writing my code in Notepad. Notepad is a simple text editor that offers no helpful features or a 
+
+##### Programming Challanges 
+During this project I will have to solve the following problems in order to complete the game
+  -
+### V. Project Management
+
+##### Burndown Chart
