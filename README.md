@@ -47,7 +47,7 @@ Another coding standard I wrote with was to place '{' directly underneath previo
 
 ![Burndown](https://i.imgur.com/owoBcqZ.png)
 
-As my burndown chart shows, The challenges that I had to solve took longer than I anticipated. This was due to the 
+As my burndown chart shows, The challenges that I had to solve took longer than I anticipated. This was due to the fact that implementing collision detection was alot more difficult than I first estimated and this in turn, pushed back my entire project. As a result of this I was unable to fully complete my 'lives' system 
 
 ##### User Stories Tracking Chart (Which Stories Have Been Completed)
 
