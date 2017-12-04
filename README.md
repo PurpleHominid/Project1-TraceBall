@@ -6,7 +6,22 @@ In this game, the player will control a square by moving their mouse cursor with
 ### II. User Stories and Requirements
 
 ##### High Level Functional Requirements
-1. Create a square canvas in the top left corner of the webpage that is 500px X 500px. It will be white with a dark grey border that is
+1. Create a square canvas in the top left corner of the webpage that is 500px X 500px. This size is important to the function of the game as having more or less playable space and make the game easier or harder respectively.
+
+2. Create a NPC (Non-Playable Character). The NPC will be represented by a 2D red square that is 50px X 50px with no border. The size is important for the same reason as the size of the canvas, as it can affect the difficulty of the game.
+
+3. Create a representation for the player controlled character. This will be a 2D green square that is also 50px X 50px with no border. The size is important for the same reason as the size of the canvas, as it can affect the difficulty of the game.
+
+4. Make the players square follow the mouse cursor instantly but only within the canvas, if the mouse was to leave the canvas the square cannot follow as this would remove challange from the game.
+
+5. Make the NPC square follow the players mouse, but not instantly, to give the effect of the NPC chasing the player. This will provide the challenge for the game.
+
+6. There needs to be collision detection between the player and the NPC. A collision also needs to be clearly visible to the player so they know when they have collided. This will be achieved by the players square changing colours when it touches the NPC.
+
+##### High Level Non-Functional Requirements
+1. The colour of the canvas for this project will be pure white with a dark grey border around it that is 10px thick, to let the player see the edge of the canvas clearly
+
+2. 
 
 ##### User Stories
 1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices.
