@@ -1,4 +1,4 @@
-# Project1-TrackerBall
+# Project 1- Trace Ball
 
 ### I. Description
 In this game, the player will control a square by moving their mouse cursor within the game window. The player will be chased by an NPC square that will attempt to touch the players square. If the two collide, the player will lose a life. After 3 lives are lost, the game is over.
@@ -19,6 +19,9 @@ I would like to create a game that
 This project will be a 2D, top down, casual arcade game
 
 ### IV. Technical Details
+
+##### Platform
+I will be making the game using Javascript. This is because a requirement set out in the brief given to me buy the client was for the game to be run/played in a browser
 
 ##### Programming Language/Enviroment
 I will be developing this game using Javascript as instructed in the brief. The game will be able to run on any web browser but will require a mouse to work correctly (Not touch screen compatable)
