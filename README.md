@@ -19,9 +19,9 @@ In this game, the player will control a square by moving their mouse cursor with
 6. There needs to be collision detection between the player and the NPC. A collision also needs to be clearly visible to the player so they know when they have collided. This will be achieved by the players square changing colours when it touches the NPC.
 
 ##### High Level Non-Functional Requirements
-1. The colour of the canvas for this project will be pure white with a dark grey border around it that is 10px thick, to let the player see the edge of the canvas clearly
+1. The colour of the canvas for this project will be pure white with a dark grey border around it that is 10px thick, to let the player see the edge of the canvas clearly.
 
-2. 
+2. While the colour of the two squares needs to be different so that the player can tell them apart, exactly what colour they need to be is not essential. For my game they will be Red for the NPC and Green for the Player
 
 ##### User Stories
 1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices.
@@ -88,3 +88,12 @@ This is the instruction to create a canvas on the webpage in which the game will
 
 ###### Draw NPC Square at Start Position:
 Creates the NPC square object at a pre-determined position on the canvas
+
+###### Draw Players Square at Start Position:
+Created the players square at a pre-determined position on the canvas, away from the NPC
+
+###### Get Player Mouse Position:
+Gathers information on where the players mouse is and stores it until it is updated
+
+###### Update Player Square Position:
+
