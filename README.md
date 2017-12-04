@@ -62,7 +62,9 @@ The main alogorithm I needed to use was a collision detection algorithm to be us
 ##### Coding Standards 
 While writing my code, I chose to use indenting rather than spacing, I chose this for two main reasons. Firstly, for me personally, using the tab button is intuative and saves time on not pressing repeatedly or holding the space button. Secondly, tabs are universal for all text editiors, therefor they will appear consistent, regardless of which text editior is used.
 
-### V. Project Management
+### V. Research
+
+### VI. Project Management
 
 ##### Burndown Chart
 
@@ -96,4 +98,5 @@ Created the players square at a pre-determined position on the canvas, away from
 Gathers information on where the players mouse is and stores it until it is updated
 
 ###### Update Player Square Position:
+This changes the position of the players square to exactly where the mouse 
 
