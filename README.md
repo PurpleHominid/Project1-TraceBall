@@ -98,5 +98,5 @@ Created the players square at a pre-determined position on the canvas, away from
 Gathers information on where the players mouse is and stores it until it is updated
 
 ###### Update Player Square Position:
-This changes the position of the players square to exactly where the mouse 
+This changes the position of the players square to exactly where the mouse was last recorded
 
