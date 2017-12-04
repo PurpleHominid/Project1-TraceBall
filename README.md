@@ -63,3 +63,5 @@ As shown on this chart, I was able to complete 5 out of 6 of the user stories th
 ##### Flowchart
 
 ![Flowchart](https://i.imgur.com/m2HSI0D.png)
+
+Draw Lives (Set Lives to 3): This creates a variable and sets it's value to 3, The variable is called 'lives' as this is how many                                    chances 
