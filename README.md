@@ -66,3 +66,6 @@ As shown on this chart, I was able to complete 5 out of 6 of the user stories th
 
 ###### Draw Lives (Set Lives to 3):
 This creates a variable and sets it's value to 3, The variable is called 'lives' as this is how many more    times the player can be caught by the NPC and not end the game
+
+###### Draw Canvas
+This is the instruction to create a canvas on the webpage in which the game will run, the objects will be drawn within this canvas and cannot move out of it
