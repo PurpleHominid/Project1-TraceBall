@@ -5,6 +5,10 @@ In this game, the player will control a square by moving their mouse cursor with
 
 ### II. User Stories and Requirements
 
+##### High Level Functional Requirements
+1. Create Canvas
+
+##### User Stories
 1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices.
 2. As a player, I would want my character to follow my mouse cursor so that I can control it.
 3. As a player, I woud want the NPC to chase my character so that the game has challenge
