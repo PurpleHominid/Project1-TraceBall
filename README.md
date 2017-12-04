@@ -6,8 +6,7 @@ In this game, the player will control a square by moving their mouse cursor with
 ### II. Epic And User Stories
 
 ##### Epic
-
-I would like to create a game that 
+I would like to create a web based game in which the player will have to move a square
 1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices.
 2. As a player, I would want my character to follow my mouse cursor so that I can control it.
 3. As a player, I woud want the NPC to chase my character so that the game has challenge
@@ -67,5 +66,8 @@ As shown on this chart, I was able to complete 5 out of 6 of the user stories th
 ###### Draw Lives (Set Lives to 3):
 This creates a variable and sets it's value to 3, The variable is called 'lives' as this is how many more    times the player can be caught by the NPC and not end the game
 
-###### Draw Canvas
+###### Draw Canvas:
 This is the instruction to create a canvas on the webpage in which the game will run, the objects will be drawn within this canvas and cannot move out of it
+
+###### Draw NPC Square at Start Position:
+Creates the NPC square object at a pre-determined position on the canvas
