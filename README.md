@@ -6,7 +6,7 @@ In this game, the player will control a square by moving their mouse cursor with
 ### II. User Stories and Requirements
 
 ##### High Level Functional Requirements
-1. Create Canvas
+1. Create a square canvas in the top left corner of the webpage that is 500px X 500px
 
 ##### User Stories
 1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices.
