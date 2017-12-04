@@ -19,7 +19,7 @@ This project will be a 2D, top down, casual arcade game
 ##### Programming Language/Enviroment
 I will be developing this game using Javascript as instructed in the brief. The game will be able to run on any web browser but will require a mouse to work correctly (Not touch screen compatable)
 
-Also as instructed in the brief, I will be writing my code in Notepad. Notepad is a simple text editor that offers no helpful features or a 
+Also as instructed in the brief, I will be writing my code in Notepad. Notepad is a simple text editor that offers no helpful features like an IDE would.
 
 ##### Programming Challenges
 During this project, I will need to find a solution to the following problems/challenges.
