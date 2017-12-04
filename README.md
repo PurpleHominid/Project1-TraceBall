@@ -23,9 +23,19 @@ Also as instructed in the brief, I will be writing my code in Notepad. Notepad i
 
 ##### Programming Challenges
 During this project, I will need to find a solution to the following problems/challenges.
-
-  - How to make the players square follow the mouse presicely 
   
+  - How to draw and fix objects in a canvas
+  - How to make the players square follow the mouse presicely 
+  - How to detect a collision between the player and the NPC
+ 
+##### Constructing and implementing my code
+
+To start constructing my code I used the internet to find out how to construct a basic canvas. In order to learn more about how the code works, my technique was to change different aspects of the code and see the results of my changes compared to the original. by doing this I am able to disect the section of code and can transfer the knowledge I gain to other functions and progamming languages. For example, once I learned how to stlye a canvas, I was able to transfer this knowlege and know how to style rectangles and otehr shapes within the game, as the code was similar.
+
+##### Algorithms
+
+The main alogorithm I needed to use was a collision detection algorithm to be used between the player character and the NPC. I started by researching a basic collision detection algorithm between two objects and started my process of working backwards and disecting the code in order to understand it and adapt it to fit my game. This process took alot longer than I had anticipated because disecting the algorithm was proving difficult as I was unable to achieve my desired results when changing bits of the code. Specifically, checking the co-ordinates of the two characters (collisions were being detected even though they were not visabley touching. However with persistence I was able to solve this problem.
+ 
 ##### Coding Standards 
 While writing my code, I chose to use indenting rather than spacing, I chose this for two main reasons. Firstly, for me personally, using the tab button is intuative and saves time on not pressing repeatedly or holding the space button. Secondly, tabs are universal for all text editiors, therefor they will appear consistent, regardless of which text editior is used.
 
@@ -37,7 +47,7 @@ Another coding standard I wrote with was to place '{' directly underneath previo
 
 ![Burndown](https://i.imgur.com/owoBcqZ.png)
 
-As my burndown chart shows, The challenges that I had to solve took longer than I anticipated.
+As my burndown chart shows, The challenges that I had to solve took longer than I anticipated. This was due to the 
 
 ##### User Stories Tracking Chart (Which Stories Have Been Completed)
 
