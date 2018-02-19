@@ -5,7 +5,7 @@ In this game, the player will control a square by moving their mouse cursor with
 
 ### II. User Stories and Requirements
 
-##### High Level Functional Requirements
+##### High Level Functional Requirements/Objectives
 1. Create a square canvas in the top left corner of the webpage that is 500px X 500px. This size is important to the function of the game as having more or less playable space and make the game easier or harder respectively.
 
 2. Create a NPC (Non-Playable Character). The NPC will be represented by a 2D red square that is 50px X 50px with no border. The size is important for the same reason as the size of the canvas, as it can affect the difficulty of the game.
@@ -18,7 +18,7 @@ In this game, the player will control a square by moving their mouse cursor with
 
 6. There needs to be collision detection between the player and the NPC. A collision also needs to be clearly visible to the player so they know when they have collided. This will be achieved by the players square changing colours when it touches the NPC.
 
-##### High Level Non-Functional Requirements
+##### High Level Non-Functional Requirements/Objectives
 1. The colour of the canvas for this project will be pure white with a dark grey border around it that is 10px thick, to let the player see the edge of the canvas clearly.
 
 2. While the colour of the two squares needs to be different so that the player can tell them apart, exactly what colour they need to be is not essential. For my game they will be Red for the NPC and Green for the Player
@@ -60,7 +60,13 @@ To start constructing my code I used the internet to find out how to construct a
 The main alogorithm I needed to use was a collision detection algorithm to be used between the player character and the NPC. I started by researching a basic collision detection algorithm between two objects and started my process of working backwards and disecting the code in order to understand it and adapt it to fit my game. This process took alot longer than I had anticipated because disecting the algorithm was proving difficult as I was unable to achieve my desired results when changing bits of the code. Specifically, checking the co-ordinates of the two characters (collisions were being detected even though they were not visabley touching. However with persistence I was able to solve this problem.
  
 ##### Coding Standards 
-While writing my code, I chose to use indenting rather than spacing, I chose this for two main reasons. Firstly, for me personally, using the tab button is intuative and saves time on not pressing repeatedly or holding the space button. Secondly, tabs are universal for all text editiors, therefor they will appear consistent, regardless of which text editior is used.
+Coding standards are important to make sure your code looks neat and consistent and that you can easily come back to your code and understand what you have wrote before. It also makes it easier for multiple people to work on the same program if they use the same coding standards. Below are the coding standards I chose to use:
+
+###### Indenting Over Spaces
+While writing my code, I chose to use indenting rather than spacing, I chose this for two main reasons. Firstly, for me personally, using the tab button is intuative and saves time on not pressing repeatedly or holding the space button. Secondly, tabs are universal for all text editiors, therefor they will appear consistent, regardless of which text editior or IDE is used.
+
+###### Line Length Under 100
+I made sure that in my code, each line did not excede 100 characters in length. I chose to do this because having lines that are any longer can force the line off the edge of the screen and force me to have to scroll across and back again to edit that line of code. By not having lines very long I can save time by not having to scroll to edit.
 
 ### V. Research
 
