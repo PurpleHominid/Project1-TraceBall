@@ -1,11 +1,11 @@
 # Project 1- Trace Ball
 
-### I. Description
+### I. Initiative
 In this game, the player will control a square by moving their mouse cursor within the game window. The player will be chased by an NPC square that will attempt to touch the players square. If the two collide, the player will lose a life. After 3 lives are lost, the game is over.
 
-### II. User Stories and Requirements
+### II. Epics and User Stories
 
-##### High Level Functional Requirements/Objectives
+##### Epics
 1. Create a square canvas in the top left corner of the webpage that is 500px X 500px. This size is important to the function of the game as having more or less playable space and make the game easier or harder respectively.
 
 2. Create a NPC (Non-Playable Character). The NPC will be represented by a 2D red square that is 50px X 50px with no border. The size is important for the same reason as the size of the canvas, as it can affect the difficulty of the game.
@@ -18,17 +18,22 @@ In this game, the player will control a square by moving their mouse cursor with
 
 6. There needs to be collision detection between the player and the NPC. A collision also needs to be clearly visible to the player so they know when they have collided. This will be achieved by the players square changing colours when it touches the NPC.
 
-##### High Level Non-Functional Requirements/Objectives
+##### Non-Functional Requirements
 1. The colour of the canvas for this project will be pure white with a dark grey border around it that is 10px thick, to let the player see the edge of the canvas clearly.
 
 2. While the colour of the two squares needs to be different so that the player can tell them apart, exactly what colour they need to be is not essential. For my game they will be Red for the NPC and Green for the Player
 
 ##### User Stories
 1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices.
+
 2. As a player, I would want my character to follow my mouse cursor so that I can control it.
+
 3. As a player, I woud want the NPC to chase my character so that the game has challenge
+
 4. As a player, I would like to be able to see both characters so that I have a fair chance at the game
+
 5. As a player, I would want to know when I have lost all 3 of my lives so that I know when the game is over
+
 6. As a player, I would like to know when I have come into contact with the NPC so that I know when I am losing lives
 
 ### III. Genre
