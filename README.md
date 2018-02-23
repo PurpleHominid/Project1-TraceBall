@@ -40,7 +40,7 @@ In this game, the player will control a square by moving their mouse cursor with
 
 I was initially given a project brief. The brief outlined for us what the client wanted from this project. It was up to me to determine from this brief what I needed to do in order to meet the clients needs. To do this I had to break down the brief in to more managable steps.
 
-Firstly I broke down the project brief into what I believed to be the main tasks that I need to complete in order to meet the clients needs
+Firstly I broke down the project brief into what I believed to be the main tasks that I need to complete in order to meet the clients needs. These are called the 'Epics' and are the core steps to completing the project. These steps can be completed and tested independantly of one another.
 
 ### III. Genre
 This project will be a 2D, top down, casual arcade game
