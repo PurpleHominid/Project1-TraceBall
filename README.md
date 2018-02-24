@@ -24,23 +24,27 @@ In this game, the player will control a square by moving their mouse cursor with
 2. While the colour of the two squares needs to be different so that the player can tell them apart, exactly what colour they need to be is not essential. For my game they will be Red for the NPC and Green for the Player
 
 ##### User Stories
-1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices.
+1. As a player, I would like to be able to play the game in a browser because I would be able to play it on multiple devices. (1 Point)
 
-2. As a player, I would want my character to follow my mouse cursor so that I can control it.
+2. As a player, I would want my character to follow my mouse cursor so that I can control it. (3 Points)
 
-3. As a player, I woud want the NPC to chase my character so that the game has challenge
+3. As a player, I woud want the NPC to chase my character so that the game has challenge. (4 Points)
 
-4. As a player, I would like to be able to see both characters so that I have a fair chance at the game
+4. As a player, I would like to be able to see both characters so that I have a fair chance at the game. (1 Point)
 
-5. As a player, I would want to know when I have lost all 3 of my lives so that I know when the game is over
+5. As a player, I would want to know when I have lost all 3 of my lives so that I know when the game is over. (3 Points)
 
-6. As a player, I would like to know when I have come into contact with the NPC so that I know when I am losing lives
+6. As a player, I would like to know when I have come into contact with the NPC so that I know when I am losing lives. (2 Points)
 
 ##### How We Addressed The Requirements
 
 I was initially given a project brief. The brief outlined for us what the client wanted from this project. It was up to me to determine from this brief what I needed to do in order to meet the clients needs. To do this I had to break down the brief in to more managable steps.
 
 Firstly I broke down the project brief into what I believed to be the main tasks that I need to complete in order to meet the clients needs. These are called the 'Epics' and are the core steps to completing the project. These steps can be completed and tested independantly of one another.
+
+The next step from breaking the task down into epics is to create user stories for the game. User stories are statements that outline an event or task that a potential user of the game would like to see happen or do in the game. By looking at the project form this perspective, I can gain a better understanding of what would work for the end user(s), it also helps me to make sure that all of the expected features are implemented correctly as I will be testing each story for bugs and errors during the course of the project.
+
+To make sure that I meet the requirements to the deadline and to a good standard I have assigned each user story a point value for 1 to 5, with 1 being very easy and 5 being very difficult. By doing this I can prioritise what tasks I believe will be the most challenging to complete and allocate more time for myself to complete.
 
 ### III. Genre
 This project will be a 2D, top down, casual arcade game
