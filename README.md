@@ -83,6 +83,15 @@ While writing my code, I chose to use indenting rather than spacing, I chose thi
 ###### Line Length Under 100
 I made sure that in my code, each line did not excede 100 characters in length. I chose to do this because having lines that are any longer can force the line off the edge of the screen and force me to have to scroll across and back again to edit that line of code. By not having lines very long I can save time by not having to scroll to edit.
 
+###### Variable Names
+My variable names with follow a clear naming convention. All names will start with a capital letter and will be names according to what they are storing (e.g. no variable named 'x'). If multiple variables are storing similarly named data then I will add a number to the end of the variable that starts from 1 and goes up depending on how many variables of that name there are.
+
+###### Commenting
+When adding comments to my code, I will be inserting comments above the line of code that I am talking about as to not add length to the line. By doing this I will also be sticking to another coding standard I have in place to limit the line length to 100 characters
+
+###### Curley Brackets
+My brackets will be places at the end of the line rather than starting a new line as to save space and make the document shorter, It will also make my functions easier to read.
+
 ### V. Research
 
 ### VI. Project Management
