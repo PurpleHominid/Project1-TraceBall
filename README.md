@@ -36,7 +36,7 @@ In this game, the player will control a square by moving their mouse cursor with
 
 6. As a player, I would like to know when I have come into contact with the NPC so that I know when I am losing lives. (2 Points)
 
-##### How We Addressed The Requirements
+##### How I Addressed The Requirements
 
 I was initially given a project brief. The brief outlined for us what the client wanted from this project. It was up to me to determine from this brief what I needed to do in order to meet the clients needs. To do this I had to break down the brief in to more managable steps.
 
